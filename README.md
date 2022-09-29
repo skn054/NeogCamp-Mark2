@@ -1,4 +1,4 @@
-#neoG-markTwo-Fun Quiz With Levels
+#neoG-markTwo CLI Fandom Quiz App
 Created a fun quiz app.
 
 Technology Used:
